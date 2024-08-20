@@ -1,7 +1,3 @@
-Here's the updated README with your chosen emojis:
-
----
-
 # 🛡️ Donald Thompson - Technology Enthusiast & Lifelong Learner
 
 I bring a unique blend of experience as a former soldier and cowboy, now fully immersed in the world of technology. Currently, I am advancing my knowledge in computer science, data science, and project management, with a strong focus on practical, real-world applications.
@@ -24,6 +20,3 @@ I enjoy dabbling in creative development environments such as Unreal Engine, Ble
 ### 🤝 Contact
 For collaboration or inquiries, reach me at [donald.thompson.careers@gmail.com](mailto:donald.thompson.careers@gmail.com).
 
----
-
-This version incorporates the specific emojis you chose, giving each section a distinct visual identity while maintaining a professional tone. Let me know if this looks good or if you’d like any further adjustments!
