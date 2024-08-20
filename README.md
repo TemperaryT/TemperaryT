@@ -17,6 +17,9 @@ My 20-year career in the infantry instilled in me a disciplined, mission-driven 
 ### 🧩 Hobbies and Other Interests
 I enjoy dabbling in creative development environments such as Unreal Engine, Blender, and anything else that I stumble upon.
 
+#### 📚 Current Reading List
+- **Last Book Read**: *[The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)* by Mikhail Bulgakov.
+- **Currently Reading**: *[Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)* by Joe Reis and Matt Housley.
+
 ### 🤝 Contact
 For collaboration or inquiries, reach me at [donald.thompson.careers@gmail.com](mailto:donald.thompson.careers@gmail.com).
-
